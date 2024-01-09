@@ -2,6 +2,11 @@
 <html>
 <head>
     <style>
+        body {
+            color: black;
+            background-color: white;
+        }
+        
         h1 {
             font-size: 60px; /* Tamaño de fuente deseado */
             text-align: center; /* Centrar horizontalmente */
@@ -10,10 +15,36 @@
             align-items: center; /* Centrar verticalmente */
             height: 100vh; /* Altura de la página */
         }
+        
+        a {
+            font-size: 16px; /* Tamaño de fuente normal */
+            text-decoration: none;
+            color: inherit;
+            display: block; /* Cambiado de flex a block */
+            text-align: center; /* Centrar horizontalmente */
+            position: fixed; /* Fijo en la ventana */
+            bottom: 0; /* En la parte inferior */
+            width: 100%; /* Ancho completo */
+            padding: 10px; /* Espacio interno */
+            background-color: #f1f1f1; /* Color de fondo */
+        }
+
+        /* Estilos para modo oscuro */
+        @media (prefers-color-scheme: dark) {
+            body {
+                color: white;
+                background-color: black;
+            }
+
+            a {
+                background-color: #333;
+            }
+        }
     </style>
     <title>Sergio Comerón</title>
 </head>
 <body>
     <h1>HOLA!</h1>
+    <a href="mailto:info@sergiocomeron.com" style="text-decoration: none; color: inherit;">info@sergiocomeron.com</a>
 </body>
 </html>
