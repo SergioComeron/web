@@ -2,49 +2,37 @@
 <html>
 <head>
     <style>
+        html,
         body {
-            color: black;
-            background-color: white;
-        }
-        
-        h1 {
-            font-size: 60px; /* Tamaño de fuente deseado */
-            text-align: center; /* Centrar horizontalmente */
+            box-sizing: border-box;
+            min-height: 100vh;
             display: flex;
-            justify-content: center; /* Centrar verticalmente */
-            align-items: center; /* Centrar verticalmente */
-            height: 100vh; /* Altura de la página */
-        }
-        
-        a {
-            font-size: 16px; /* Tamaño de fuente normal */
-            text-decoration: none;
-            color: inherit;
-            display: block; /* Cambiado de flex a block */
-            text-align: center; /* Centrar horizontalmente */
-            position: fixed; /* Fijo en la ventana */
-            bottom: 0; /* En la parte inferior */
-            width: 100%; /* Ancho completo */
-            padding: 10px; /* Espacio interno */
-            background-color: #f1f1f1; /* Color de fondo */
+            align-content: center;
+            justify-content: center;
+            align-items: center;
+            background-color: black;
         }
 
-        /* Estilos para modo oscuro */
-        @media (prefers-color-scheme: dark) {
-            body {
-                color: white;
-                background-color: black;
-            }
+        h1,
+        .gradient {
+            font-size: clamp(2rem, 10vw, 8rem);
+        }
 
-            a {
-                background-color: #333;
-            }
+        h1 {
+            color: #ffffff;
+        }
+
+        .gradient {
+            background-image: linear-gradient(92deg, #6a68d9 10%, #da6cae 60%, #f5a957);
+            -webkit-text-fill-color: #0000;
+            -webkit-background-clip: text;
         }
     </style>
     <title>Sergio Comerón</title>
 </head>
 <body>
-    <h1>HOLA!</h1>
+    <!-- <h1>HOLA!</h1> -->
+    <h1>¡Hola, soy <span class="gradient">Sergio Comerón</span>!</h1>
     <a href="mailto:info@sergiocomeron.com" style="text-decoration: none; color: inherit;">info@sergiocomeron.com</a>
 </body>
 </html>
