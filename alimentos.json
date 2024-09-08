@@ -1,0 +1,425 @@
+[
+    {
+        "id": 1,
+        "name": "Pollo",
+        "protein": 20.6,
+        "carbohydrates": 0,
+        "fats": 3.4,
+        "calories": 113,
+        "image": "Pollo"
+    },
+    {
+        "id": 2,
+        "name": "Arroz",
+        "protein": 9.2,
+        "carbohydrates": 76.3,
+        "fats": 1.3,
+        "calories": 366,
+        "image": "Arroz"
+    },
+    {
+        "id": 3,
+        "name": "Claras",
+        "protein": 49,
+        "carbohydrates": 0.7,
+        "fats": 0.1,
+        "calories": 46,
+        "image": "Claras"
+    },
+    {
+        "id": 4,
+        "name": "Avena",
+        "protein": 14,
+        "carbohydrates": 66,
+        "fats": 7,
+        "calories": 388,
+        "image": "Avena"
+    },
+    {
+        "id": 5,
+        "name": "Aguacate",
+        "protein": 1.8,
+        "carbohydrates": 0.4,
+        "fats": 23.5,
+        "calories": 233,
+        "image": "Aguacate"
+    },
+    {
+        "id": 6,
+        "name": "Jamon",
+        "protein": 31,
+        "carbohydrates": 0,
+        "fats": 5.6,
+        "calories": 136,
+        "image": "Jamon"
+    },
+    {
+        "id": 7,
+        "name": "Torta arroz",
+        "protein": 7.9,
+        "carbohydrates": 81.2,
+        "fats": 81.2,
+        "calories": 386,
+        "image": "Torta arroz"
+    },
+    {
+        "id": 8,
+        "name": "Proteina",
+        "protein": 87,
+        "carbohydrates": 1.8,
+        "fats": 1.4,
+        "calories": 386,
+        "image": "Proteina"
+    },
+    {
+        "id": 9,
+        "name": "Cacahuete",
+        "protein": 25.2,
+        "carbohydrates": 7.9,
+        "fats": 46,
+        "calories": 563,
+        "image": "Cacahuete"
+    },
+    {
+        "id": 10,
+        "name": "Aceite",
+        "protein": 0,
+        "carbohydrates": 0,
+        "fats": 99.9,
+        "calories": 899,
+        "image": "Aceite"
+    },
+    {
+        "id": 11,
+        "name": "Atun",
+        "protein": 18,
+        "carbohydrates": 9.25,
+        "fats": 0.7,
+        "calories": 79,
+        "image": "Atun"
+    },
+    {
+        "id": 12,
+        "name": "Patata",
+        "protein": 1.7,
+        "carbohydrates": 16,
+        "fats": 0.2,
+        "calories": 77,
+        "image": "Patata"
+    },
+    {
+        "id": 13,
+        "name": "Boniato",
+        "protein": 1.6,
+        "carbohydrates": 24,
+        "fats": 0.6,
+        "calories": 115,
+        "image": "Boniato"
+    },
+    {
+        "id": 14,
+        "name": "Lomo",
+        "protein": 38,
+        "carbohydrates": 0.5,
+        "fats": 5,
+        "calories": 199,
+        "image": "Lomo"
+    },
+    {
+        "id": 15,
+        "name": "Pasta",
+        "protein": 13,
+        "carbohydrates": 67,
+        "fats": 2.7,
+        "calories": 350,
+        "image": "Pasta"
+    },
+    {
+        "id": 16,
+        "name": "Ternera",
+        "protein": 29.85,
+        "carbohydrates": 0,
+        "fats": 11.3,
+        "calories": 229,
+        "image": "Ternera"
+    },
+    {
+        "id": 17,
+        "name": "Huevo",
+        "protein": 12.7,
+        "carbohydrates": 0.68,
+        "fats": 9.7,
+        "calories": 141,
+        "image": "Huevo"
+    },
+    {
+        "id": 18,
+        "name": "Amilopectina",
+        "protein": 0.3,
+        "carbohydrates": 88,
+        "fats": 0.1,
+        "calories": 353,
+        "image": "Amilopectina"
+    },
+    {
+        "id": 19,
+        "name": "Merluza",
+        "protein": 21.38,
+        "carbohydrates": 0.41,
+        "fats": 4.31,
+        "calories": 132,
+        "image": "Merluza"
+    },
+    {
+        "id": 20,
+        "name": "Crema de cacahuete",
+        "protein": 26,
+        "carbohydrates": 13,
+        "fats": 46,
+        "calories": 582,
+        "image": "Crema de cacahuete"
+    },
+    {
+        "id": 21,
+        "name": "Almendras",
+        "protein": 24.5,
+        "carbohydrates": 4.8,
+        "fats": 53.3,
+        "calories": 621,
+        "image": "Almendras"
+    },
+    {
+        "id": 22,
+        "name": "Yogur Natural",
+        "protein": 3.3,
+        "carbohydrates": 4.3,
+        "fats": 2.9,
+        "calories": 56,
+        "image": "Yogur Natural"
+    },
+    {
+        "id": 23,
+        "name": "Leche desnatada",
+        "protein": 3.4,
+        "carbohydrates": 4.8,
+        "fats": 0.3,
+        "calories": 36,
+        "image": "Leche desnatada"
+    },
+    {
+        "id": 24,
+        "name": "Nueces",
+        "protein": 15.32,
+        "carbohydrates": 13.71,
+        "fats": 65.21,
+        "calories": 654,
+        "image": "Nueces"
+    },
+    {
+        "id": 25,
+        "name": "Aceitunas",
+        "protein": 1,
+        "carbohydrates": 1,
+        "fats": 11,
+        "calories": 125,
+        "image": "Aceitunas"
+    },
+    {
+        "id": 26,
+        "name": "Tomate",
+        "protein": 0.88,
+        "carbohydrates": 3.92,
+        "fats": 0.2,
+        "calories": 18,
+        "image": "Tomate"
+    },
+    {
+        "id": 27,
+        "name": "Pepino",
+        "protein": 0.78,
+        "carbohydrates": 2.87,
+        "fats": 0.21,
+        "calories": 16,
+        "image": "Pepino"
+    },
+    {
+        "id": 28,
+        "name": "Harina de Avena",
+        "protein": 13,
+        "carbohydrates": 61,
+        "fats": 6.6,
+        "calories": 376,
+        "image": "Harina de Avena"
+    },
+    {
+        "id": 29,
+        "name": "Arandanos",
+        "protein": 0.7,
+        "carbohydrates": 11,
+        "fats": 0,
+        "calories": 52,
+        "image": "Arandanos"
+    },
+    {
+        "id": 30,
+        "name": "Kiwi",
+        "protein": 1.14,
+        "carbohydrates": 14.66,
+        "fats": 0.52,
+        "calories": 61,
+        "image": "Kiwi"
+    },
+    {
+        "id": 31,
+        "name": "Zanahoria",
+        "protein": 0.93,
+        "carbohydrates": 9.58,
+        "fats": 0.24,
+        "calories": 41,
+        "image": "Zanahoria"
+    },
+    {
+        "id": 32,
+        "name": "Sandía",
+        "protein": 0.61,
+        "carbohydrates": 7.55,
+        "fats": 0.15,
+        "calories": 30.0,
+        "image": "Sandía"
+    },
+    {
+        "id": 33,
+        "name": "Melón",
+        "protein": 1.49,
+        "carbohydrates": 14.44,
+        "fats": 0.34,
+        "calories": 60.0,
+        "image": "Melón"
+    },
+    {
+        "id": 34,
+        "name": "Platano",
+        "protein": 1.1,
+        "carbohydrates": 22.8,
+        "fats": 0.3,
+        "calories": 89.0,
+        "image": "Platano"
+    },
+    {
+        "id": 35,
+        "name": "Ciclodextrina",
+        "protein": 0.0,
+        "carbohydrates": 97.0,
+        "fats": 0.0,
+        "calories": 388,
+        "image": "Ciclodextrina"
+    },
+    {
+        "id": 36,
+        "name": "Fresas",
+        "protein": 0.67,
+        "carbohydrates": 7.68,
+        "fats": 0.3,
+        "calories": 32.0,
+        "image": "Fresas"
+    },
+    {
+        "id": 37,
+        "name": "Pan Integral",
+        "protein": 9.7,
+        "carbohydrates": 46.1,
+        "fats": 4.2,
+        "calories": 246.0,
+        "image": "Pan Integral"
+    },
+    {
+        "id": 38,
+        "name": "Espárragos",
+        "protein": 2.2,
+        "carbohydrates": 3.9,
+        "fats": 0.2,
+        "calories": 20,
+        "image": "Espárragos"
+    },
+    {
+        "id": 39,
+        "name": "Berenjena",
+        "protein": 1.01,
+        "carbohydrates": 5.7,
+        "fats": 0.19,
+        "calories": 24,
+        "image": "Berenjena"
+    },
+    {
+        "id": 40,
+        "name": "Granada",
+        "protein": 1.67,
+        "carbohydrates": 18.7,
+        "fats": 1.17,
+        "calories": 83,
+        "image": "Granada"
+    },
+    {
+        "id": 41,
+        "name": "Pistachos",
+        "protein": 20.0,
+        "carbohydrates": 28.0,
+        "fats": 45,
+        "calories": 560,
+        "image": "Pistachos"
+    },
+    {
+        "id": 42,
+        "name": "Chocolate 72%",
+        "protein": 10.0,
+        "carbohydrates": 32.0,
+        "fats": 42,
+        "calories": 568,
+        "image": "Chocolate 72%"
+    },
+    {
+        "id": 43,
+        "name": "Naranja",
+        "protein": 1.23,
+        "carbohydrates": 15.39,
+        "fats": 0.16,
+        "calories": 62,
+        "image": "Naranja"
+    },
+    {
+        "id": 44,
+        "name": "Queso enmental",
+        "protein": 27.0,
+        "carbohydrates": 0,
+        "fats": 29.0,
+        "calories": 370,
+        "image": "Queso enmental"
+    },
+    {
+        "id": 46,
+        "name": "Queso gouda",
+        "protein": 25.0,
+        "carbohydrates": 0,
+        "fats": 28.0,
+        "calories": 351,
+        "image": "Queso gouda"
+    },
+    {
+        "id": 47,
+        "name": "Melocotón",
+        "protein": 0.91,
+        "carbohydrates": 9.54,
+        "fats": 0.25,
+        "calories": 29,
+        "image": "Melocotón"
+    },
+    {
+        "id": 48,
+        "name": "Sepia",
+        "protein": 16.24,
+        "carbohydrates": 0.82,
+        "fats": 0.7,
+        "calories": 79,
+        "image": "Sepia"
+    }
+]
