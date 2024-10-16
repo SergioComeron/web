@@ -978,5 +978,12 @@
         "grupoMuscular": "Bíceps",
         "variable": "",
         "descripcion": ""
+    },
+    {
+        "id": 141,
+        "nombre": "Extensión de cuádriceps máquina una pierna",
+        "grupoMuscular": "Cuádriceps",
+        "variable": "",
+        "descripcion": "Extensión de cuádriceps con máquina con una pierna"
     }
 ]
